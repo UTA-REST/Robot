@@ -1,0 +1,165 @@
+Backward: -15.0 2020-02-24 18:17:31.968297
+DistanceToCenter: -15.0 Backward 2020-02-24 18:17:31.968412
+Backward: -15.0 2020-02-24 18:18:29.325531
+DistanceToCenter: -30.0 Backward 2020-02-24 18:18:29.325669
+Backward: -7.0 2020-02-24 18:19:31.827594
+DistanceToCenter: -37.0 Backward 2020-02-24 18:19:31.827719
+Forward: 15.0 2020-02-24 20:17:00.995310
+DistanceToCenter: -22.0 Forward 2020-02-24 20:17:00.999243
+Forward: 15.0 2020-02-24 20:35:49.440069
+DistanceToCenter: -7.0 Forward 2020-02-24 20:35:49.440242
+Forward: 15.0 2020-02-24 20:37:28.003130
+DistanceToCenter: 8.0 Forward 2020-02-24 20:37:28.003428
+Forward: 7.0 2020-02-24 20:38:43.981288
+DistanceToCenter: 15.0 Forward 2020-02-24 20:38:43.981442
+Backward: -15.0 2020-02-24 20:51:53.331627
+DistanceToCenter: 0.0 Backward 2020-02-24 20:51:53.331766
+Forward: 15.0 2020-02-24 20:52:53.947795
+DistanceToCenter: 15.0 Forward 2020-02-24 20:52:53.947947
+Backward: -15.0 2020-02-24 20:54:18.280035
+DistanceToCenter: 0.0 Backward 2020-02-24 20:54:18.280194
+Forward: 15.0 2020-02-24 20:56:31.444168
+DistanceToCenter: 15.0 Forward 2020-02-24 20:56:31.444306
+Forward: 15.0 2020-02-24 21:04:21.675974
+DistanceToCenter: 30.0 Forward 2020-02-24 21:04:21.676331
+Forward: 7.0 2020-02-24 21:05:18.474445
+DistanceToCenter: 37.0 Forward 2020-02-24 21:05:18.474576
+Backward: -10.0 2020-02-24 21:24:18.903129
+DistanceToCenter: 27.0 Backward 2020-02-24 21:24:18.903227
+Backward: -10.0 2020-02-24 21:24:24.031014
+DistanceToCenter: 17.0 Backward 2020-02-24 21:24:24.031047
+Backward: -10.0 2020-02-24 21:24:29.148790
+DistanceToCenter: 7.0 Backward 2020-02-24 21:24:29.148855
+Backward: -7.0 2020-02-24 21:24:34.264410
+DistanceToCenter: 0.0 Backward 2020-02-24 21:24:34.264441
+Backward: -15.0 2020-02-25 18:40:13.966184
+DistanceToCenter: -15.0 Backward 2020-02-25 18:40:13.966269
+Backward: -15.0 2020-02-25 18:41:00.988562
+DistanceToCenter: -30.0 Backward 2020-02-25 18:41:00.988601
+Backward: -7.0 2020-02-25 18:41:30.774437
+DistanceToCenter: -37.0 Backward 2020-02-25 18:41:30.774563
+Forward: 15.0 2020-02-25 19:24:49.287472
+DistanceToCenter: -22.0 Forward 2020-02-25 19:24:49.287609
+Forward: -10.0 2020-02-25 19:44:52.305086
+DistanceToCenter: 12.0 Forward 2020-02-25 19:44:52.305199
+Forward: -10.0 2020-02-25 19:44:57.423686
+DistanceToCenter: 2.0 Forward 2020-02-25 19:44:57.423737
+Forward: -2.0 2020-02-25 19:45:02.539372
+DistanceToCenter: 0.0 Forward 2020-02-25 19:45:02.539402
+Backward: -15.0 2020-02-25 19:46:10.354934
+DistanceToCenter: -15.0 Backward 2020-02-25 19:46:10.355094
+Backward: -15.0 2020-02-25 19:46:57.437011
+DistanceToCenter: -30.0 Backward 2020-02-25 19:46:57.437152
+Backward: -7.0 2020-02-25 19:47:35.725098
+DistanceToCenter: -37.0 Backward 2020-02-25 19:47:35.725235
+Forward: -10.0 2020-02-25 19:49:28.682371
+DistanceToCenter: 27.0 Forward 2020-02-25 19:49:28.682498
+Forward: -10.0 2020-02-25 19:49:33.796118
+DistanceToCenter: 17.0 Forward 2020-02-25 19:49:33.797018
+Forward: -10.0 2020-02-25 19:49:38.911929
+DistanceToCenter: 7.0 Forward 2020-02-25 19:49:38.911998
+Forward: -7.0 2020-02-25 19:49:44.027038
+DistanceToCenter: 0.0 Forward 2020-02-25 19:49:44.027068
+Backward: -7.0 2020-02-25 19:51:07.198842
+DistanceToCenter: -7.0 Backward 2020-02-25 19:51:07.199050
+Backward: -15.0 2020-02-25 19:51:35.151882
+DistanceToCenter: -22.0 Backward 2020-02-25 19:51:35.152019
+Backward: -15.0 2020-02-25 19:52:24.392011
+DistanceToCenter: -37.0 Backward 2020-02-25 19:52:24.392152
+Forward: 15.0 2020-02-25 19:57:43.722077
+DistanceToCenter: -22.0 Forward 2020-02-25 19:57:43.722216
+Backward: -15.0 2020-02-25 20:01:40.307905
+DistanceToCenter: -37.0 Backward 2020-02-25 20:01:40.308042
+Forward: 15.0 2020-02-25 20:14:10.806819
+DistanceToCenter: -22.0 Forward 2020-02-25 20:14:10.807169
+Forward: 15.0 2020-02-25 20:27:19.419767
+DistanceToCenter: -7.0 Forward 2020-02-25 20:27:19.419910
+Forward: 7.0 2020-02-25 20:28:00.535576
+DistanceToCenter: 0.0 Forward 2020-02-25 20:28:00.535729
+Forward: 15.0 2020-02-25 20:28:32.583864
+DistanceToCenter: 15.0 Forward 2020-02-25 20:28:32.584014
+Forward: 15.0 2020-02-25 20:39:27.144533
+DistanceToCenter: 30.0 Forward 2020-02-25 20:39:27.144591
+Forward: 7.0 2020-02-25 20:39:53.773164
+DistanceToCenter: 37.0 Forward 2020-02-25 20:39:53.773299
+Backward: -10.0 2020-02-25 20:52:55.263421
+DistanceToCenter: 27.0 Backward 2020-02-25 20:52:55.263552
+Backward: -10.0 2020-02-25 20:53:00.371897
+DistanceToCenter: 17.0 Backward 2020-02-25 20:53:00.372028
+Backward: -10.0 2020-02-25 20:53:05.479643
+DistanceToCenter: 7.0 Backward 2020-02-25 20:53:05.479810
+Backward: -7.0 2020-02-25 20:53:10.587507
+DistanceToCenter: 0.0 Backward 2020-02-25 20:53:10.587635
+Forward: 15.0 2020-02-27 11:28:05.017506
+DistanceToCenter: 15.0 Forward 2020-02-27 11:28:05.017555
+Backward: -15.0 2020-02-27 11:29:13.593321
+DistanceToCenter: 0.0 Backward 2020-02-27 11:29:13.593448
+Backward: -15.0 2020-02-27 11:30:14.218054
+DistanceToCenter: -15.0 Backward 2020-02-27 11:30:14.218164
+Backward: -15.0 2020-02-27 11:30:52.295466
+DistanceToCenter: -30.0 Backward 2020-02-27 11:30:52.295508
+Backward: -7.0 2020-02-27 11:31:27.144068
+DistanceToCenter: -37.0 Backward 2020-02-27 11:31:27.144112
+Forward: 7.0 2020-02-27 11:40:49.090900
+DistanceToCenter: -30.0 Forward 2020-02-27 11:40:49.091039
+Backward: -7.0 2020-02-27 11:41:34.614753
+DistanceToCenter: -37.0 Backward 2020-02-27 11:41:34.614926
+Forward: 1.0 2020-02-27 11:42:47.159305
+DistanceToCenter: -36.0 Forward 2020-02-27 11:42:47.159415
+Backward: -1.0 2020-02-27 11:43:08.831626
+DistanceToCenter: -37.0 Backward 2020-02-27 11:43:08.831782
+Forward: 15.0 2020-02-27 12:10:29.218470
+DistanceToCenter: -22.0 Forward 2020-02-27 12:10:29.218560
+Forward: 15.0 2020-02-27 12:23:44.221915
+DistanceToCenter: -7.0 Forward 2020-02-27 12:23:44.222022
+Forward: 7.0 2020-02-27 12:24:27.995377
+DistanceToCenter: 0.0 Forward 2020-02-27 12:24:27.995511
+Forward: 15.0 2020-02-27 12:25:01.530285
+DistanceToCenter: 15.0 Forward 2020-02-27 12:25:01.530429
+Forward: 15.0 2020-02-27 12:39:03.331219
+DistanceToCenter: 30.0 Forward 2020-02-27 12:39:03.331256
+Forward: 7.0 2020-02-27 12:40:10.006472
+DistanceToCenter: 37.0 Forward 2020-02-27 12:40:10.006608
+Backward: -10.0 2020-02-27 12:56:36.853678
+DistanceToCenter: 27.0 Backward 2020-02-27 12:56:36.853809
+Backward: -10.0 2020-02-27 12:56:41.959245
+DistanceToCenter: 17.0 Backward 2020-02-27 12:56:41.959334
+Backward: -10.0 2020-02-27 12:56:47.063550
+DistanceToCenter: 7.0 Backward 2020-02-27 12:56:47.063602
+Backward: -7.0 2020-02-27 12:56:52.180056
+DistanceToCenter: 0.0 Backward 2020-02-27 12:56:52.180157
+Forward: 5.0 2021-07-20 15:18:34.320058
+DistanceToCenter: 5.0 Forward <class 'datetime.datetime'>
+Forward: 5.0 2021-07-20 15:19:23.509749
+DistanceToCenter: 10.0 Forward <class 'datetime.datetime'>
+Forward: 5.0 2021-07-20 15:24:30.150120
+DistanceToCenter: 5.0 Forward <class 'datetime.datetime'>
+Forward: 5.0 2021-07-20 15:27:06.877908
+DistanceToCenter: 5.0 Forward <class 'datetime.datetime'>
+Backward: 5.0 2021-07-20 15:27:10.558153
+Backward: 5.0 2021-07-20 15:27:22.118562
+DistanceToCenter: 5.0 Backward <class 'datetime.datetime'>
+Backward: 2.0 2021-07-20 15:28:16.672436
+DistanceToCenter: 7.0 Backward <class 'datetime.datetime'>
+Backward: 2.0 2021-07-20 15:33:18.936521
+DistanceToCenter: 9.0 Backward <class 'datetime.datetime'>
+Backward: 2.0 2021-07-20 15:33:24.765713
+DistanceToCenter: 11.0 Backward <class 'datetime.datetime'>
+Forward: 1.0 2021-07-20 15:33:33.127459
+DistanceToCenter: 10.0 Backward <class 'datetime.datetime'>
+Forward: 10.0 2021-07-20 15:33:56.771199
+Backward: 15.0 2021-07-21 11:25:47.735847
+DistanceToCenter: 15.0 Backward <class 'datetime.datetime'>
+Forward: 5.0 2021-07-21 11:26:09.951274
+DistanceToCenter: 10.0 Backward <class 'datetime.datetime'>
+Backward: 1.0 2021-07-21 11:26:22.235887
+DistanceToCenter: 11.0 Backward <class 'datetime.datetime'>
+Forward: 1.0 2021-07-21 11:26:32.390422
+DistanceToCenter: 10.0 Backward <class 'datetime.datetime'>
+Forward: 15.0 2021-07-21 11:27:47.011423
+DistanceToCenter: 5.0 Forward <class 'datetime.datetime'>
+Forward: 5.0 2021-08-17 11:19:58.014601
+DistanceToCenter: 10.0 Forward <class 'datetime.datetime'>
+Backward: 10.0 2021-08-17 11:25:40.437225
+Forward: 5.0 2021-08-17 11:26:12.658646
+DistanceToCenter: 5.0 Forward <class 'datetime.datetime'>
